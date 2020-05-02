@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="0" name="Монеты" id="1300000000aaaaaaaaa1">
+   <recordtable>
+    <record dir="1300000000aaaaaaaaa2" name="Welcome to MyTetra!" ctime="20081210124656" author="" file="text.html" id="1300000000aaaaaaaaa3" url="" tags="MyTetra, Qt"/>
+   </recordtable>
+   <node crypt="0" name="Рубли" id="1588432642asyitftn5e">
+    <node crypt="0" name="1 рубль" id="1588432658j364vv6v3r">
+     <recordtable>
+      <record dir="158843273663f49ouoqc" name="1 рубль" ctime="20200502181856" author="" file="text.html" id="1588432736tms43ikpfi" url="" tags=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="2 рубля" id="1588432663hjytmwlx7b">
+     <recordtable>
+      <record dir="1588432701cgjrp4bo4t" name="2 рубля" ctime="20200502181821" author="" file="text.html" id="1588432701nrz90id0nt" url="" tags=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="5 рублей" id="1588432669z9m3vglwha">
+     <recordtable>
+      <record dir="15884327535rmb1j8d6o" name="5 рублей" ctime="20200502181913" author="" file="text.html" id="1588432753p6p17jrfpt" url="" tags=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="10 рублей" id="1588432673mo36oo0e0m">
+     <recordtable>
+      <record dir="158843276817w6mkec4u" name="10 рублей" ctime="20200502181928" author="" file="text.html" id="15884327680ei7siz65d" url="" tags=""/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+ </content>
+</root>
