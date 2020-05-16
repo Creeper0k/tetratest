@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="0" id="1588432658j364vv6v3r" name="Рубли">
+   <recordtable>
+    <record ctime="20200502181856" id="1588432736tms43ikpfi" name="1 рубль" tags="" file="text.html" author="" url="" dir="158843273663f49ouoqc"/>
+    <record ctime="20200512085112" id="1589262672oh7zv59jk5" name="2 рубля" tags="" file="text.html" author="" url="" dir="1589262672zy6c1gszec"/>
+    <record ctime="20200516204922" id="1589651362l815x6nxaw" name="123" tags="" file="text.html" author="" url="" dir="1589651362pm5iurls54">
+     <files>
+      <file id="1589651402rdb6gs7t6v" type="file" fileName="витамины.docx"/>
+     </files>
+    </record>
+   </recordtable>
+  </node>
+ </content>
+</root>
